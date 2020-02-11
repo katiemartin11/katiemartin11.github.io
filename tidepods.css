@@ -1,0 +1,108 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(backgroundpt2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body {
+    background: ;
+    font-family: arial;
+}
+
+#wrap {
+    width: 70%;
+    margin: 0 auto;
+    background-color: white;
+}
+
+header {
+    background: rgb(2, 0, 36);
+    background: rgb(33, 36, 0);
+    background: rgb(33, 36, 0);
+    background: rgb(227, 12, 33);
+    background: rgb(227, 12, 33);
+    background: rgb(191, 24, 49);
+    background: #bf1831;
+    text-align: center;
+}
+
+header img {
+    width: 80%;
+}
+
+header h1 {
+    color: #0a1d59;
+    font-size: 40px;
+}
+
+nav {
+    background-color: #0a1d59;
+    text-align: center;
+    padding: 10px 0;
+    font-family: verdana;
+}
+
+nav a {
+    color: #bf1831;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #D4AF37;
+    background-color: #bf1831;
+}
+
+nav li {
+    display: inline;
+}
+
+nav ul {
+    padding: 0;
+    margin: 0;
+}
+
+section {
+    padding: 20px;
+    overflow: auto;
+}
+
+section h1 {
+    color: #0a1d59;
+    font-size: 180%;
+}
+
+section h2 {
+    color: #0a1d59
+}
+
+.tide {
+    width: 30%;
+    float: right;
+    padding: 10px;
+}
+
+footer {
+    background-color: #D4AF37;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    padding: 10px 0
+}
+
+.button {
+    background-color: #0a1d59;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    display: inline-block;
+    margin: 15px 0;
+    border-radius: 8px;
+}
+
+a.button:hover {
+    background-color: #bf1831;
+}
