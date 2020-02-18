@@ -99,11 +99,6 @@ figure {
     overflow: auto;
 }
 
-#div-figure {
-    float: left;
-    width: 200px;
-}
-
 }
 
 figcaption {
