@@ -90,19 +90,19 @@ footer a {
 }
 
 figure {
-    width: 100%;
+    width: 240px;
     text-align: center;
     border: 1px solid white;
     float: left;
-    padding: 5px;
-    margin: 10px;
+    padding: 10px;
+    margin: 10px 25px;
     overflow: auto;
 }
 
 }
 
 figcaption {
-    color: white;
+    color:  !important white;
     font-family: georgia, serif;
     font-size: 90%;
 
