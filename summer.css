@@ -1,0 +1,82 @@
+body {
+    background-position: top center;
+    background-size: auto;
+    background-color: lightcoral;
+    margin: 0;
+    padding: 0;
+}
+
+
+#wrap {
+    width: 80%;
+    margin: 0 auto;
+    border: solid white;
+}
+
+header img {
+    width: 75%;
+    float: center;
+
+}
+
+header {
+    background-color: lightpink;
+    padding: 10px;
+    text-align: center;
+
+}
+
+nav {
+    background-color: lightpink;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    font-family: monospace;
+}
+
+nav li {
+    display: inline;
+    padding: 20px;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+nav a {
+    color: lightcoral;
+    text-decoration: none;
+    padding: 10px 30px;
+}
+
+nav a:hover {
+    color: lightpink;
+    background-color: aliceblue;
+
+}
+
+section {
+    padding: 20px;
+    background-color: aliceblue;
+    overflow: auto;
+    font-family: monospace;
+    font-size: 20px;
+    color: lightpink
+}
+
+section img {
+    float: right;
+    width: 40%;
+
+}
+
+footer {
+    padding: 10px;
+    font-family: monospace;
+    text-align: center;
+    background-color: lightpink;
+    color: lightcoral;
+
+
+}
