@@ -1,0 +1,141 @@
+html,
+
+
+body {
+    background-position: top center;
+    background-size: auto;
+    background-color: lightgoldenrodyellow;
+    margin: 0;
+    padding: 0;
+}
+
+#wrap {
+    width: 70%;
+    margin: 0 auto;
+
+}
+
+header p {
+    font-family: mexcellent;
+    color: plum;
+    background-color: mediumpurple;
+    padding: 10px;
+    text-align: center;
+    font-size: 50px;
+
+}
+
+header div {
+    width: %;
+
+}
+
+nav {
+    background color: aqua;
+    padding: 10px;
+    text-align: center;
+    font-size: 30px;
+    font-family: mexcellent;
+}
+
+nav li {
+    display: inline;
+    padding: 10px;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+nav a {
+    color: mediumpurple;
+    text-decoration: none;
+    padding: 10px 30px;
+
+}
+
+nav a:hover {
+    color: lightgoldenrodyellow;
+    background-color: mediumpurple;
+}
+
+.logo {
+    width: 70%;
+}
+
+.section {
+    float: right;
+}
+
+section {
+    padding: 20px;
+    background-color: white;
+    overflow: auto;
+    font-family: hamburger;
+    font-size: 15px;
+    color: mediumpurple;
+}
+
+aside {
+    width: 36%;
+    float: left;
+    padding: 2%;
+    background-color: mediumpurple;
+    color: white;
+    font-size: 110%;
+}
+
+article {
+    width: 56%;
+    float: right;
+    padding: 2%;
+    background-color: lightyellow;
+
+}
+
+section form {
+    font-size: 15px;
+}
+
+.button {
+    background-color: white;
+    color: mediumpurple;
+    text-decoration: none;
+    padding: 10px;
+    display: inline-block;
+    margin: 15px 0;
+    border-radius: 8px;
+}
+
+a.button:hover {
+    background-color: lightgoldenrodyellow;
+    color: mediumpurple;
+}
+
+
+blockquote {}
+
+footer {
+    font-family: hamburger;
+    background-color: mediumpurple;
+    padding: 5px;
+    color: lightgoldenrodyellow;
+    text-align: center;
+}
+
+#footercontainer ul li {
+    display: inline;
+}
+
+.master-wrapper-main .center-3 {
+    float: left;
+    width: 510px;
+    min-height: 400px;
+    padding: 10px;
+    margin: 10px;
+    background: #FFF;
+    display: inline;
+    overflow: hidden;
+    border-radius: 5px;
+}
