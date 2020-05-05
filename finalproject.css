@@ -16,7 +16,8 @@ body {
 }
 
 header p {
-    font-family: mexcellent;
+    font-family: 'Roboto Mono', monospace;
+    ;
     color: plum;
     background-color: mediumpurple;
     padding: 10px;
@@ -35,7 +36,10 @@ nav {
     padding: 10px;
     text-align: center;
     font-size: 30px;
-    font-family: mexcellent;
+    font-family: hamburger;
+
+
+
 }
 
 nav li {
