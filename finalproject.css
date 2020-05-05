@@ -16,8 +16,7 @@ body {
 }
 
 header p {
-    font-family: 'Roboto Mono', monospace;
-    ;
+    font-family: ;
     color: plum;
     background-color: mediumpurple;
     padding: 10px;
@@ -36,7 +35,7 @@ nav {
     padding: 10px;
     text-align: center;
     font-size: 30px;
-    font-family: hamburger;
+    font-family: 'hamburger';
 
 
 
@@ -76,7 +75,7 @@ section {
     padding: 20px;
     background-color: white;
     overflow: auto;
-    font-family: hamburger;
+    font-family: 'hamburger';
     font-size: 15px;
     color: mediumpurple;
 }

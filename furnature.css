@@ -31,7 +31,7 @@ nav {
     padding: 10px;
     text-align: center;
     font-size: 30px;
-    font-family: mexcellent;
+    font-family: 'hamburger';
 }
 
 nav li {
@@ -75,7 +75,7 @@ section {
     padding: 20px;
     background-color: white;
     overflow: auto;
-    font-family: hamburger;
+    font-family: 'hamburger';
     font-size: 15px;
     color: mediumpurple;
 }
